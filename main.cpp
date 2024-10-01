@@ -1,5 +1,3 @@
-// Programmer: Derek Kloh
-// Date: 5/20/24
 // Purpose: This program reads a file and analyzes the text for the number of words, sentences and style of writing
 
 #include <iostream>
