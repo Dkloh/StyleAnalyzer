@@ -1,0 +1,109 @@
+FILE NAME: story.txt
+
+STATISTICAL SUMMARY
+TOTAL NUMBER OF WORDS: 357
+TOTAL NUMBER OF UNIQUE WORDS: 166
+TOTAL NUMBER OF UNIQUE WORDS OF MORE THAN THREE LETTERS: 166
+AVERAGE WORD LENGTH: 5.31928 characters
+AVERAGE SENTENCE LENGTH: 9.15385 words
+
+STYLE WARNINGS
+WARNING: The average word length is greater than 5 characters.
+
+INDEX OF UNIQUE WORDS
+about
+against
+along
+anis
+anybody
+anyone
+anything
+around
+asked
+back
+bags
+bead
+beer
+better
+brightly
+came
+care
+carried
+come
+comes
+coming
+could
+course
+curtain
+curtains
+damp
+does
+doesn
+down
+drank
+drinking
+else
+feel
+felt
+fine
+finish
+five
+from
+girl
+glasses
+heavy
+hotels
+know
+labels
+looked
+mean
+means
+minutes
+nights
+nothing
+other
+over
+pads
+people
+perfectly
+picked
+please
+realize
+reasonably
+right
+room
+said
+scream
+side
+simple
+sitting
+smiled
+something
+spent
+station
+stop
+table
+take
+talking
+thank
+that
+them
+then
+there
+they
+through
+tracks
+train
+waiting
+walked
+wall
+want
+went
+were
+what
+where
+willing
+with
+woman
+would
+wrong
